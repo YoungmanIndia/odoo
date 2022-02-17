@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Prevent Lost Reason Creation",
-    'summary': """Hides the create option in dropdown of Lost Reason""",
+    'name': "Prevent Tag Creation",
+    'summary': """Hides the create option in dropdown of Tags""",
     'description': """
-        Prevent Lost Reason Creation
+        Prevent Tag Creation
     """,
     'author': "Youngman India Pvt Ltd",
     'website': "http://youngman.co.in",
